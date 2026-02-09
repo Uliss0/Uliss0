@@ -111,20 +111,10 @@ Enterprise-grade platform for **on-demand maintenance and construction services*
 
 ## 📊 GitHub Overview
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Uliss0&show_icons=true&hide_rank=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uliss0&layout=compact&langs_count=8" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Uliss0&column=6&margin-w=10&no-frame=true)
-
+- Active Fullstack Developer with hands-on production experience
+- Strong focus on enterprise systems, fintech solutions, and scalable platforms
+- Primary stack includes TypeScript, React, Next.js, PHP, Laravel, and .NET
+- Experience maintaining and evolving long-lived codebases
 
 ---
 
@@ -134,6 +124,7 @@ I have experience working in **corporate, fintech, freelance, and .NET-based ent
 I enjoy building systems where **business rules, data integrity, and user experience** are equally important.
 
 ---
+
 
 
 
