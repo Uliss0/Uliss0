@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Ulises Moreyra
+# 👋 Hi, I’m Ulises 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ulisesmoreyra)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Uliss0)
@@ -124,6 +124,7 @@ I have experience working in **corporate, fintech, freelance, and .NET-based ent
 I enjoy building systems where **business rules, data integrity, and user experience** are equally important.
 
 ---
+
 
 
 
