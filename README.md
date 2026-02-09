@@ -111,10 +111,13 @@ Enterprise-grade platform for **on-demand maintenance and construction services*
 
 ## 📊 GitHub Overview
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Uliss0&show_icons=true&hide_rank=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Uliss0&show_icons=true&hide_rank=true" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Uliss0&layout=compact&langs_count=8)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uliss0&layout=compact&langs_count=8" />
+</p>
 
 ---
 
@@ -131,5 +134,6 @@ I have experience working in **corporate, fintech, freelance, and .NET-based ent
 I enjoy building systems where **business rules, data integrity, and user experience** are equally important.
 
 ---
+
 
 
