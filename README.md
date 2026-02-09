@@ -9,7 +9,7 @@
 ## 🚀 Fullstack Developer | Fintech & Enterprise Web Applications
 
 Experienced **Fullstack Developer** focused on building, optimizing, and maintaining **enterprise-grade and fintech-oriented web applications**.  
-Currently working on a **credit card platform associated with a business consortium**, developing solutions that support critical financial workflows and high-impact operational systems.
+Currently working on a **fintech platform associated with a business consortium**, developing solutions that support critical financial workflows and high-impact operational systems.
 
 I combine **modern frontend technologies** with **robust backend architectures**, delivering scalable, maintainable, and business-driven software.
 
@@ -111,14 +111,17 @@ Enterprise-grade platform for **on-demand maintenance and construction services*
 
 ## 📊 GitHub Overview
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Uliss0&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Uliss0&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Uliss0&show_icons=true&hide_rank=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Uliss0&layout=compact&langs_count=8)
+
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Uliss0&margin-w=15)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Uliss0&column=6&margin-w=10&no-frame=true)
+
 
 ---
 
@@ -128,4 +131,5 @@ I have experience working in **corporate, fintech, freelance, and .NET-based ent
 I enjoy building systems where **business rules, data integrity, and user experience** are equally important.
 
 ---
+
 
