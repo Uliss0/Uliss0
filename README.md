@@ -74,8 +74,4 @@ Additionally, I integrate **Artificial Intelligence solutions** — including **
 - Virtual Machine provisioning and management
 - Agile workflows: Scrum and Kanban
 
----
 
-## 📈 GitHub Stats
-
-![Ulises's GitHub stats](https://github-readme-stats.vercel.app/api?username=Uliss0&show_icons=true&theme=radical)
